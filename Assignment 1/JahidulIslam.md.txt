@@ -1,6 +1,4 @@
 Name: Jahidul Islam
 RUID: 171001155
 
-This is assignment 1 for programming methedology 2 including all four problems. These files include the program
-files as well as txt versions of each in case there are issues. If the compiler is not working properly please check
-the code I have written. Any feedback on specific mistakes will help me greatly.
+This is assignment 1 that I re-uploaded even though I had a version yesterday, for programming methedology II including all four problems. These files include the program files as well as txt versions of each in case there are issues. If the compiler is not working properly please check the code I have written. Any feedback on specific mistakes will help me greatly.
