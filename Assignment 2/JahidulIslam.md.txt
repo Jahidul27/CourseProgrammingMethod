@@ -1,0 +1,16 @@
+Jahidul Islam - 171001155 - Assignment 2
+
+Problem 1: Please change up the given array values in order to see different values sorted. These array values
+are at the beginning of the code.
+
+Problem 2: There is a main fuction towards the end of the code with a manipulatable array for testing.
+
+Problem 3: The first part is indicated as the shuffle portion of the code as can be seen from the message.
+Main function towards the end to be manipulated for changes in integers for array.
+
+Problem 4: The code can be run in order to get instructed on inputs.
+
+
+THANK YOU.
+
+
