@@ -1,0 +1,12 @@
+Jahidul Islam
+171001155
+Assignment 3
+
+Problem 1:
+Run program to manipulate and also a secondary version of code is included at the
+bottom which implements the heap sort more properly.
+
+Problem 2:
+First cpp cover a and b but had to make a similar second cpp in order to get parts c
+and d working properly. Use the main equations at the end of the cpp files to 
+test the respective parts. Thank you.
